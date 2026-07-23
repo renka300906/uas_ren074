@@ -9,10 +9,11 @@
 	"ext-pdo":"*",
 	"ext-pdo_mysql":"*",
         "laravel/framework": "^11.0",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
+         "fakerphp/faker": "^1.23"
+      
     },
     "require-dev": {
-        "fakerphp/faker": "^1.23",
         "laravel/pint": "^1.13",
         "laravel/sail": "^1.26",
         "mockery/mockery": "^1.6",
